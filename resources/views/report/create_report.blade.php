@@ -2,6 +2,7 @@
 
 
 @section('content')
+<!-- This one is to create report -->
 
 <section class="p-5">
     <div class="container">
